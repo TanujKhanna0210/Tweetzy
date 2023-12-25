@@ -1,4 +1,4 @@
-# Jetpack Compose Twitter App
+# Tweetzy
 
 This is a simple tweets app built using Jetpack Compose. It allows users to view tweets related to specific topics fetched from an API.
 
